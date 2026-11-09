@@ -42,7 +42,7 @@
         <p>Para cachorros pequenos, médios e grandes</p>
         <p>Valor: 5,00 reais</p>
         <img src="brinquedos.jpg" width="400" height="400">
-  </ul>
+        </ul>
 
   <p><b>Rações</b></p>
       <ul type="I">
@@ -78,7 +78,7 @@
         <img src="tapete.jpg" width="400" height="400">
 
   </ul>  
-    </nav>    
+  </nav>    
     <div id="serviços" style="background: white;">
         <h2>Serviços</h2>
     </div>
