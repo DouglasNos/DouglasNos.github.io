@@ -38,13 +38,13 @@
         <p>Valor: 10,00 reais</p>
         <img src="roupa.jpg" width="400" height="400">
         
-        <li> Brinquedos</li>
+  <li> Brinquedos</li>
         <p>Para cachorros pequenos, médios e grandes</p>
         <p>Valor: 5,00 reais</p>
         <img src="brinquedos.jpg" width="400" height="400">
-      </ul>
+  </ul>
 
-      <p><b>Rações</b></p>
+  <p><b>Rações</b></p>
       <ul type="I">
         <li> Filhote</li>
         <p>Ambientes Internos</p>
@@ -52,19 +52,19 @@
         <img src="ração filhote.jpg" width="400" height="400">
 
 
-        <li> Adulto</li>
+  <li> Adulto</li>
         <p>Ambientes Internos</p>
         <p>Valor: 100,00 reais</p>
         <img src="ração adulto.jpg" width="400" height="400">
 
 
-        <li> Senior</li>
+  <li> Senior</li>
         <p>Ambientes Internos</p>
         <p>Valor: 100,00 reais</p>
         <img src="ração senior.jpg" width="400" height="400">
 
 
-      </ul>  
+  </ul>  
       <p><b>Higiene e Limpeza</b></p>
       <ul type="I">
         <li> Fraldas</li>
@@ -72,12 +72,12 @@
         <p>Valor: 50,00 reais</p>
         <img src="fraldas.jpg" width="400" height="400">
 
-        <li> Tapetes</li>
+  <li> Tapetes</li>
         <p>Descartaveis</p>
         <p>Valor: 25,00 reais</p>
         <img src="tapete.jpg" width="400" height="400">
 
-      </ul>  
+  </ul>  
     </nav>    
     <div id="serviços" style="background: white;">
         <h2>Serviços</h2>
@@ -91,7 +91,7 @@
         <p>Valor: 25,00 reais</p>
       </ul>
         
-    </main>
+  </main>
   </body>
   <footer>
     <div id="contato" style="background: white;">
